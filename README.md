@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Daniel
 
 - 🧑‍💻 Estudo Engenharia de Software
-- 🎮 🎸 Gosto de jogos e música
+- 🎮 Gosto de jogos e música 🎸
   
 <div>
 <a href="https://github.com/DanielCs1609">
