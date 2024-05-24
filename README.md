@@ -1,3 +1,5 @@
+<img width=100% bottom=50px src="https://github.com/DanielCs1609/DanielCs1609/assets/131261876/7a6b4545-2ea7-4f75-96f5-99017862d92f"/>
+
 ## Olá! Eu sou o Daniel
 
 - 🧑‍💻 Estudo Engenharia de Software
