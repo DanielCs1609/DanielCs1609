@@ -18,7 +18,7 @@
 
 <br>
 
-<div>
+<div text align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanielCs1609&theme=swift)](https://git.io/streak-stats)
   
