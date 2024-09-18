@@ -7,10 +7,12 @@
 
 ## Olá! Eu sou o Daniel
 
-- 🧑‍💻 Estudo Engenharia de Software
+- 🧑‍💻 Estudante de Engenharia de Software
+- 🚀 Focado em desenvolvimento frontend
 - 🎮 Gosto de jogos e música 🎸
+- 👨‍💻 Ferramentas e linguagens que utilizo: HTML5, CSS3, JavaScript e Git.
   
-<div>
+<div text align="center">
 <a href="https://github.com/DanielCs1609">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielCs1609&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCs1609&layout=compact&langs_count=7&theme=swift"/>
@@ -24,9 +26,13 @@
   
 </div>
 
+## Tecnologias que utilizo
 <div style="display: inline_block"><br>
 <img align="center" alt="Daniel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
 <img align="center" alt="Daniel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="center" alt="Daniel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="center" alt="Daniel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="center" alt="Daniel-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>   
 
 ##
